@@ -17,7 +17,7 @@
     <link href="{{URL::to('lib/owlcarousel/assets/owl.carousel.min.css') }}" rel="stylesheet">
   
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="{{URL::to('assets/css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{Secure_URL::to('assets/css/bootstrap.min.css') }}" rel="stylesheet">
   
   <!-- Favicons -->
     <link href="{{URL::to('assets/img/favicon.png') }}" rel="icon">
