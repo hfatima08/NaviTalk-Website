@@ -1206,6 +1206,10 @@ Team
     .wrap-contact100 {
       padding: 110px 15px 80px 15px;
     }
+    
+    .hidden-content{
+      margin-top:100px;
+    }
   }
   
 }
