@@ -923,7 +923,7 @@ Portfolio
 }
 
 .our-portfolio .item:hover .hidden-content {
-  top: -100px;
+  /* top: -100px; */
   opacity: 1;
   visibility: visible;
 }
