@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <link rel="shortcut icon" href="{{URL::to('assets/img/logo2.png')}}" style="width:80px;height:80px;">
+    <link rel="shortcut icon" href="{{secure_url('assets/img/logo2.png')}}" style="width:80px;height:80px;">
     <title>@yield('title')</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
@@ -13,15 +13,15 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
    
     <!-- Libraries Stylesheet -->
-    <link href="{{URL::to('lib/animate/animate.min.css') }}" rel="stylesheet">
-    <link href="{{URL::to('lib/owlcarousel/assets/owl.carousel.min.css') }}" rel="stylesheet">
+    <link href="{{secure_url('lib/animate/animate.min.css') }}" rel="stylesheet">
+    <link href="{{secure_url('lib/owlcarousel/assets/owl.carousel.min.css') }}" rel="stylesheet">
   
     <!-- Customized Bootstrap Stylesheet -->
     <link href="{{secure_url('assets/css/bootstrap.min.css') }}" rel="stylesheet">
   
   <!-- Favicons -->
-    <link href="{{URL::to('assets/img/favicon.png') }}" rel="icon">
-    <link href="{{URL::to('assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
+    <link href="{{secure_url('assets/img/favicon.png') }}" rel="icon">
+    <link href="{{secure_url('assets/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
   
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -29,13 +29,13 @@
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800&display=swap" rel="stylesheet">
    
     <!-- Vendor CSS Files -->
-    <link href="{{URL::to('assets/vendor/aos/aos.css') }}" rel="stylesheet">
-    <link href="{{URL::to('assets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
-    <link href="{{URL::to('assets/vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
-    <link href="{{URL::to('assets/vendor/boxicons/css/boxicons.min.css') }}" rel="stylesheet">
+    <link href="{{secure_url('assets/vendor/aos/aos.css') }}" rel="stylesheet">
+    <link href="{{secure_url('assets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{secure_url('assets/vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
+    <link href="{{secure_url('assets/vendor/boxicons/css/boxicons.min.css') }}" rel="stylesheet">
   
     <!-- Template Main CSS File -->
-    <link href=" {{ URL::to('assets/css/style.css') }}" rel="stylesheet">
+    <link href=" {{ secure_url('assets/css/style.css') }}" rel="stylesheet">
 </head>
 
 
@@ -44,7 +44,7 @@
 <!-- ======= Header ======= -->
 <header id="header" class="fixed-top ">
   <div class="container d-flex ">
-    <a href="{{route('home')}}" ><img src="{{URL::to('assets/img/logo.png')}}" alt="" class="img-fluid  me-auto" height="65px" width="65px"   id="logo1" ></a>
+    <a href="{{route('home')}}" ><img src="{{secure_url('assets/img/logo.png')}}" alt="" class="img-fluid  me-auto" height="65px" width="65px"   id="logo1" ></a>
    <a href="{{route('home')}}" class="me-auto" style="color: white"><h1 id="heading" >NaviTalk</h1> <br> <p id="slogan">let the sightless perceive</p></a>
 
     <nav id="navbar" class="navbar">
@@ -139,23 +139,23 @@
   <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
  
-  <script src="{{URL::to('lib/easing/easing.min.js') }}"></script>
-  <script src="{{URL::to('lib/waypoints/waypoints.min.js') }}"></script>
-  <script src="{{URL::to('lib/counterup/counterup.min.js') }}"></script>
-  <script src="{{URL::to('lib/owlcarousel/owl.carousel.min.js') }}"></script>
+  <script src="{{secure_url('lib/easing/easing.min.js') }}"></script>
+  <script src="{{secure_url('lib/waypoints/waypoints.min.js') }}"></script>
+  <script src="{{secure_url('lib/counterup/counterup.min.js') }}"></script>
+  <script src="{{secure_url('lib/owlcarousel/owl.carousel.min.js') }}"></script>
 
     
   <!-- Vendor JS Files -->
-  <script src="{{URL::to('assets/vendor/aos/aos.js') }}"></script>
+  <script src="{{secure_url('assets/vendor/aos/aos.js') }}"></script>
  
-  <script src="{{URL::to('assets/vendor/glightbox/js/glightbox.min.js') }}"></script>
+  <script src="{{secure_url('assets/vendor/glightbox/js/glightbox.min.js') }}"></script>
 
-  <script src="{{URL::to('assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
+  <script src="{{secure_url('assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
  
   <!-- Template Main JS File -->
-  <script src="{{URL::to('assets/js/main.js') }}"></script>
-  <script src="{{URL::to('assets/js/animation.js') }}"></script>
-  <script src="{{URL::to('assets/js/main2.js') }}"></script>
+  <script src="{{secure_url('assets/js/main.js') }}"></script>
+  <script src="{{secure_url('assets/js/animation.js') }}"></script>
+  <script src="{{secure_url('assets/js/main2.js') }}"></script>
   </body>
 
 </html>
