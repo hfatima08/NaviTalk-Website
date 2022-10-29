@@ -77,7 +77,9 @@ NaviTalk - let the sightless perceive
         <h5 class="text-primary-gradient fw-medium">What We Offer</h5>
         <h1 class="mb-5">Features</h1>
     </div>
+    
       <div class="row ">
+
         <div class="col-lg-4 col-sm-7 section">
          
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.3s">
