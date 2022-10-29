@@ -899,7 +899,7 @@ Portfolio
 }}
 
 @media screen and (max-width: 600px){
-  .resfeature{
+  .item:hover{
     margin-top: 300px;
   }
 }

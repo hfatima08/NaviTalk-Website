@@ -80,7 +80,7 @@ NaviTalk - let the sightless perceive
 
       <div class="row " >
 
-        <div class="col-lg-4 col-sm-7 section resfeature">
+        <div class="col-lg-4 col-sm-7 section">
          
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.3s">
               <div class="hidden-content">
