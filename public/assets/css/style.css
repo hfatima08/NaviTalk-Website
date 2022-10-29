@@ -894,16 +894,16 @@ Portfolio
 */
 
 @media (max-width: 768px) {
-.section{
-  margin-bottom: 40px;
+.section .item{
+  margin-bottom: 500px;
 }}
 
-@media screen and (max-width: 600px){
+/* @media screen and (max-width: 600px){
   .our-portfolio {
     margin-bottom: 150px;
 
   }
-}
+} */
 
 
 .our-portfolio {
@@ -911,7 +911,7 @@ Portfolio
 
 }
 
-.our-portfolio .section-heading h2 {
+.our-portfolio .section-heading h4 {
   text-align: center;
   margin: 30px 90px 0px 90px;
   margin-bottom: 120px;
