@@ -895,9 +895,11 @@ Portfolio
 
 @media (max-width: 768px) {
 .section{
-  margin-top: 140px;
+  margin-bottom: 40px;
 }
-
+.hidden-content{
+  margin-top:100px;
+}
 }
 
 .our-portfolio {
