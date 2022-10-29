@@ -77,8 +77,8 @@ NaviTalk - let the sightless perceive
         <h5 class="text-primary-gradient fw-medium">What We Offer</h5>
         <h1 class="mb-5">Features</h1>
     </div>
-    
-      <div class="row ">
+
+      <div class="row " class="resfeature">
 
         <div class="col-lg-4 col-sm-7 section">
          

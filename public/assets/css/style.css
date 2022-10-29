@@ -899,8 +899,8 @@ Portfolio
 }}
 
 @media screen and (max-width: 600px){
-  .our-portfolio .item:hover .hidden-content {
-    margin-top: 100px;
+  .resfeature{
+    margin-top: 300px;
   }
 }
 
@@ -923,7 +923,7 @@ Portfolio
 }
 
 .our-portfolio .item:hover .hidden-content {
-  /* top: -100px; */
+  top: -100px;
   opacity: 1;
   visibility: visible;
 }
