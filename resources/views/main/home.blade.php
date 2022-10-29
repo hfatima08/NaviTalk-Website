@@ -79,7 +79,7 @@ NaviTalk - let the sightless perceive
     </div>
       <div class="row ">
         <div class="col-lg-4 col-sm-7 section">
-          <a href="#">
+         
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.3s">
               <div class="hidden-content">
                 <h4>Object Detection</h4>
@@ -89,10 +89,10 @@ NaviTalk - let the sightless perceive
                 <img src="{{secure_url('assets/img/detect.png')}}" width="150px" alt="">
               </div>
             </div>
-          </a>
+        
         </div>
         <div class="col-lg-4 col-sm-7 section">
-          <a href="#">
+         
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.4s">
               <div class="hidden-content">
                 <h4>Indoor Navigation</h4>
@@ -102,10 +102,10 @@ NaviTalk - let the sightless perceive
                 <img src="{{secure_url('assets/img/navigate.svg')}}" width="125px"  alt="">
               </div>
             </div>
-          </a>
+         
         </div>
         <div class="col-lg-4 col-sm-7">
-          <a href="#">
+        
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.5s">
               <div class="hidden-content">
                 <h4>Visual Assistance</h4>
@@ -115,7 +115,7 @@ NaviTalk - let the sightless perceive
                 <img src="{{secure_url('assets/img/call.jpg')}}" width="175px" alt="">
               </div>
             </div>
-          </a>
+        
         </div>
       
       </div>
