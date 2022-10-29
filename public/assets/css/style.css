@@ -897,9 +897,10 @@ Portfolio
 .section{
   margin-bottom: 40px;
 }
-.hidden-content{
-  margin-top:200px;
+.our-portfolio .hidden-content {
+  margin-top: 100px;
 }
+
 }
 
 .our-portfolio {
