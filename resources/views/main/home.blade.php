@@ -22,7 +22,7 @@ NaviTalk - let the sightless perceive
             </div>
           </div>
           <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-            <img src="{{secure_url('assets/img/navigation.png')}}" class="img-fluid animated" alt="">
+            <img src="{{URL::to('assets/img/navigation.png')}}" class="img-fluid animated" alt="">
           </div>
        
         </div>
@@ -63,7 +63,7 @@ NaviTalk - let the sightless perceive
                 <a href="{{route('about')}}" class="btn btn-primary-gradient py-sm-3 px-4 px-sm-5 rounded-pill mt-3">Read More</a>
             </div>
             <div class="col-lg-6">
-                <img class="img-fluid wow fadeInUp" data-wow-delay="0.5s" src="{{secure_url('assets/img/ss0.png')}}" height=100%>
+                <img class="img-fluid wow fadeInUp" data-wow-delay="0.5s" src="{{URL::to('assets/img/ss0.png')}}" height=100%>
             </div>
         </div>
     </div>
@@ -88,7 +88,7 @@ NaviTalk - let the sightless perceive
                 <p>The system will have a good response time for real time object detection. It may be able to detect all the objects in an indoor environment.</p>
               </div>
               <div class="showed-content">
-                <img src="{{secure_url('assets/img/detect.png')}}" width="150px" alt="">
+                <img src="{{URL::to('assets/img/detect.png')}}" width="150px" alt="">
               </div>
             </div>
         
@@ -101,7 +101,7 @@ NaviTalk - let the sightless perceive
                 <p>After detection, the system will narrate the directions towards the object i.e. providing navigation to the blind user to reach the object.</p>
               </div>
               <div class="showed-content">
-                <img src="{{secure_url('assets/img/navigate.svg')}}" width="125px"  alt="">
+                <img src="{{URL::to('assets/img/navigate.svg')}}" width="125px"  alt="">
               </div>
             </div>
          
@@ -114,7 +114,7 @@ NaviTalk - let the sightless perceive
                 <p>The blind user can request assistance from his family or close friends. The user can add the contacts of those who they rely on.</p>
               </div>
               <div class="showed-content">
-                <img src="{{secure_url('assets/img/call.jpg')}}" width="175px" alt="">
+                <img src="{{URL::to('assets/img/call.jpg')}}" width="175px" alt="">
               </div>
             </div>
         
