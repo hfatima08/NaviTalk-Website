@@ -145,7 +145,7 @@ NaviTalk - let the sightless perceive
                 <img class="img-fluid" src="{{URL::to('assets/img/ss10.png')}}" alt="">
                 <img class="img-fluid" src="{{URL::to('assets/img/ss20.png')}}" alt="">
                 <img class="img-fluid" src="{{URL::to('assets/img/ss30.png')}}" alt="">
-                <img class="img-fluid" src="{{URL::to('assets/img/ss40.png')}}" alt="">
+                <img class="img-fluid" src="{{URL::to('assets/img/detect.jpg')}}" alt="">
                 <img class="img-fluid" src="{{URL::to('assets/img/ss50.png')}}" alt="">
             </div>
         </div>
