@@ -898,7 +898,7 @@ Portfolio
   margin-bottom: 40px;
 }}
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 768px){
   .section .item:hover {
     margin-bottom: 70px;
     margin-top:70px
