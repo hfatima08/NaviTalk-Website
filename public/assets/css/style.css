@@ -896,13 +896,11 @@ Portfolio
 @media (max-width: 768px) {
 .section{
   margin-bottom: 40px;
-}}
-
-@media screen and (max-width: 768px){
-  .section .item:hover {
-    margin-bottom: 70px;
-    margin-top:70px
-  }
+}
+.section .item:hover {
+  margin-bottom: 70px;
+  margin-top:70px
+}
 }
 
 
