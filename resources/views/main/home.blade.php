@@ -98,7 +98,7 @@ NaviTalk - let the sightless perceive
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.4s">
               <div class="hidden-content">
                 <h4>Indoor Navigation</h4>
-                <p>After detection, the application's voice over will let the blind user know whether he/she is near the object or needs to move forward stepwise.</p>
+                <p>After detection, the application's voice over will let the blind user know whether he/she is near the object or needs to move forward step wise.</p>
               </div>
               <div class="showed-content">
                 <img src="{{URL::to('assets/img/navigate.svg')}}" width="125px"  alt="">
