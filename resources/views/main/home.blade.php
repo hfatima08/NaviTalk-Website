@@ -85,7 +85,7 @@ NaviTalk - let the sightless perceive
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.3s">
               <div class="hidden-content">
                 <h4>Object Detection</h4>
-                <p>The system will have a good response time for real time object detection. It may be able to detect all the objects in an indoor environment.</p>
+                <p>NaviTalk can identify the blind user's desired object through voice commands. The application's voice over then speaks the detected object aloud.</p>
               </div>
               <div class="showed-content">
                 <img src="{{URL::to('assets/img/detect.png')}}" width="150px" alt="">
@@ -98,7 +98,7 @@ NaviTalk - let the sightless perceive
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.4s">
               <div class="hidden-content">
                 <h4>Indoor Navigation</h4>
-                <p>After detection, the system will narrate the directions towards the object i.e. providing navigation to the blind user to reach the object.</p>
+                <p>After detection, the application's voice over will let the blind user know whether he/she is near the object or needs to move forward stepwise.</p>
               </div>
               <div class="showed-content">
                 <img src="{{URL::to('assets/img/navigate.svg')}}" width="125px"  alt="">
@@ -111,7 +111,7 @@ NaviTalk - let the sightless perceive
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.5s">
               <div class="hidden-content">
                 <h4>Visual Assistance</h4>
-                <p>The blind user can request assistance from his family or close friends. The user can add the contacts of those who they rely on.</p>
+                <p>The blind user can request assistance from his family or close friends. The user can add the volunteer by sharing it's assigned assistance code.</p>
               </div>
               <div class="showed-content">
                 <img src="{{URL::to('assets/img/call.jpg')}}" width="175px" alt="">
