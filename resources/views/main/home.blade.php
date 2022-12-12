@@ -111,7 +111,7 @@ NaviTalk - let the sightless perceive
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.5s">
               <div class="hidden-content">
                 <h4>Visual Assistance</h4>
-                <p>The blind user can request assistance from his family or close friends. The user can add the volunteer by sharing it's assigned assistance code.</p>
+                <p>The blind user can request assistance from volunteers (family or close friends). The user can add the volunteer by sharing it's assigned assistance code.</p>
               </div>
               <div class="showed-content">
                 <img src="{{URL::to('assets/img/call.jpg')}}" width="175px" alt="">
