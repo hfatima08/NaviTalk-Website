@@ -29,8 +29,6 @@ NaviTalk - let the sightless perceive
       </div>
   
     </section><!-- End Hero -->
-
-
     
 <!-- About Start -->
 <div class="container-xxl py-5" id="about">
