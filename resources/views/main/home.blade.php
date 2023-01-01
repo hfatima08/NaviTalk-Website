@@ -18,7 +18,6 @@ NaviTalk - let the sightless perceive
             <h2>making the world more accessible & providing a new experience to the blind</h2>
             <div class="d-flex justify-content-center justify-content-lg-start">
               <a href="#process" class="btn-get-started scrollto">Get Started</a>
-             
             </div>
           </div>
           <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
@@ -79,7 +78,6 @@ NaviTalk - let the sightless perceive
       <div class="row " >
 
         <div class="col-lg-4 col-sm-7 section">
-         
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.3s">
               <div class="hidden-content">
                 <h4>Object Detection</h4>
