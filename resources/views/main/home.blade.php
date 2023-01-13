@@ -138,11 +138,11 @@ NaviTalk - let the sightless perceive
         </div>
         <div class="col-lg-4  col-sm-6 d-flex justify-content-center justify-content-lg-end wow fadeInUp" data-wow-delay="0.3s">
             <div class="owl-carousel screenshot-carousel">
-                <img class="img-fluid" src="{{URL::to('assets/img/ss10.png')}}" alt="">
-                <img class="img-fluid" src="{{URL::to('assets/img/ss20.png')}}" alt="">
-                <img class="img-fluid" src="{{URL::to('assets/img/ss30.png')}}" alt="">
-                <img class="img-fluid" src="{{URL::to('assets/img/detect.jpg')}}" alt="">
-                <img class="img-fluid" src="{{URL::to('assets/img/ss50.png')}}" alt="">
+                <img class="img-fluid" src="{{URL::to('assets/img/ss1.jpeg')}}" alt="">
+                <img class="img-fluid" src="{{URL::to('assets/img/ss2.jpg')}}" alt="">
+                <img class="img-fluid" src="{{URL::to('assets/img/ss3.jpg')}}" alt="">
+                <img class="img-fluid" src="{{URL::to('assets/img/ss4.jpeg')}}" alt="">
+                <img class="img-fluid" src="{{URL::to('assets/img/ss5.jpeg')}}" alt="">
             </div>
         </div>
     </div>
