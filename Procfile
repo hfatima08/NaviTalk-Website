@@ -1,1 +1,1 @@
-web: npm run start
+web: /go-server-web
